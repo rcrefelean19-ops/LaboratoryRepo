@@ -13,4 +13,3 @@ def SmallestFibGreater(n:int)->int:
     return m
 
 print(SmallestFibGreater(n))
-

@@ -4,6 +4,7 @@ n=int(input())
 
 n-=1
 
+#Determines if n is a prime number
 def prim(n:int)->bool:
     if n<=1:
         return False
